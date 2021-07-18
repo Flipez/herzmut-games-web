@@ -7,4 +7,4 @@ draft = false
 Herzmut Games is a fictional incubator which organizes different events.
 We are doing game jams, making a foosball table smart or playing board games.
 
-Herzmut Games is mainly driven by people at [Hetzner Cloud](https://hetzner-cloud.de/)
+Herzmut Games is mainly driven by people at [Hetzner Cloud](https://hetzner-cloud.de/) and [Hetzner](https://hetzner.com)
