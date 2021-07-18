@@ -6,7 +6,7 @@ image: "scrap-race-logo.png"
 color: "#ffffff"
 buttons:
   - i18n: view
-    url: "https://kjarrigan.itch.io/scrap-races"
+    url: "https://kjarrigan.itch.io/scrap-race"
   - i18n: code 
     url: "https://github.com/Flipez/scrap-race"
 ---
